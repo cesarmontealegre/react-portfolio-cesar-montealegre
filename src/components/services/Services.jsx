@@ -16,23 +16,23 @@ function Services() {
 
             <ul className='service__list'>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
             </ul>
@@ -46,27 +46,27 @@ function Services() {
 
             <ul className='service__list'>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
             </ul>
@@ -81,19 +81,19 @@ function Services() {
 
             <ul className='service__list'>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
               <li>
-                <BsCheck className='service__list-ico'/>
+                <BsCheck className='service__list-icon'/>
                 <p>Lorem ipsum dolor sit amet consectetur elit.</p>
               </li>
             </ul>
